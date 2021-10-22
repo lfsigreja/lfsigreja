@@ -1,5 +1,9 @@
 ### Hey! Que bom te ver por aqui, eu sou o Luis e esse é meu hub de estudos!
 
+- Atualmente trabalho para Digital Banks!
+- Atuo como desenvolvedor de software junior
+- Sempre a procura de novos conhecimentos e horizontes! Tem indicação de conteudo? Me chama no linkedin!
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
