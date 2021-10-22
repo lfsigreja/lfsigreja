@@ -1,7 +1,6 @@
 ### Hey! Que bom te ver por aqui, eu sou o Luis e esse é meu hub de estudos!
 
-- Atualmente trabalho para Digital Banks!
-- Atuo como desenvolvedor de software junior
+- Desenvolvedor Front-end Junior na Digital Banks!
 - Sempre a procura de novos conhecimentos e horizontes! Tem indicação de conteudo? Me chama no linkedin!
 
 <div style="display: inline_block"><br>
