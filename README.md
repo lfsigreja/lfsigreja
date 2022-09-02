@@ -1,6 +1,6 @@
 ### Hey! Que bom te ver por aqui, eu sou o Luis e esse é meu hub de estudos!
 
-- Desenvolvedor Front-end Junior na Digital Banks!
+- Software Engineer na Azion Technologies!
 - Sempre a procura de novos conhecimentos e horizontes! Tem indicação de conteudo? Me chama no linkedin!
 
 <div style="display: inline_block"><br>
